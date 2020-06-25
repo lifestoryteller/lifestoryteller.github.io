@@ -43,8 +43,8 @@ plugins: [jekyll-paginate]
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: a84c2a57837302767371                            #生成的clientID
-  clientSecret: 847046720bec629fbd3580d8f3cc617ab9d3a27a    #生成的clientSecret
+  clientID: 10ac9a881ac9818773d5                            #生成的clientID
+  clientSecret: c9db677b9952e9326236928861c2de49a5bd8118    #生成的clientSecret
   repo: dr-whq.github.io    #仓库名称
   owner: dr-whq    #github用户名
   admin: dr-whq
