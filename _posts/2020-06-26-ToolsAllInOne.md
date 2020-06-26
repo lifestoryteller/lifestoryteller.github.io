@@ -3,7 +3,7 @@ layout:     post
 title:      "Tools For me"
 subtitle:   ""
 author:     "Dr-whq"
-header-img: "img/dushubiji-baiyexing.png"
+header-img: "img/bg-1.png"
 header-mask:  0.5
 catalog: true
 tags:
