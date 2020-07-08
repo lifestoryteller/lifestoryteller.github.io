@@ -22,7 +22,7 @@ tags:
 1. [DS-3D CONTENTCENTRAL](https://www.3dcontentcentral.cn/Parts.aspx)
 
 1. [迈迪网](http://www.maidiyun.com/download/)
-# Worlbench
+# Workbench
 ## Ansys 如何输出动画
 
 1. [Ansys 如何输出动画](https://blog.csdn.net/huntstart/article/details/65941314)
