@@ -25,5 +25,8 @@ tags:
 # Workbench
 ## Ansys 如何输出动画
 
-1. [Ansys 如何输出动画](https://blog.csdn.net/huntstart/article/details/65941314)
-1. [Ansys 如何输出动画](https://blog.csdn.net/huntstart/article/details/65941314)
+11. [Ansys 如何输出动画](https://blog.csdn.net/huntstart/article/details/65941314)
+11. [Ansys 如何输出动画](https://blog.csdn.net/huntstart/article/details/65941314)
+# 电路
+22. [模拟量设备为什么都偏爱用4~20mA传输信号？](https://github.com/dr-whq/dr-whq.github.io/blob/master/Resources/%E6%A8%A1%E6%8B%9F%E9%87%8F%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%81%8F%E7%88%B1%E7%94%A84~20mA%E4%BC%A0%E8%BE%93%E4%BF%A1%E5%8F%B7%EF%BC%9F.pdf)
+
