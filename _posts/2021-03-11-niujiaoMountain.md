@@ -33,4 +33,6 @@ tags:
   ![niujiao_Mountain](/img/2021/20210311_niujiaoMountain.jpg "niujiaoMountain")
 </p>
 
+![niujiao_Mountain]( "niujiaoMountain")
+![Philadelphia's Magic Gardens. This place was so cool!](/img/2021/20210311_niujiaoMountain.jpg "Philadelphia's Magic Gardens")
 11/Mar/2021
