@@ -13,11 +13,19 @@ tags:
 
 <p align="center">
     《牛角登山》    
+</p>
+<p align="center">
     圣克拉顶顶氤氲    
+</p>
+<p align="center">
     牛角山下下雾霭    
+</p>
+<p align="center">  
     正门不过过偏门    
+
+</p>
+<p align="center">
     常景不赏赏异景
-    
 </p>
 
 
