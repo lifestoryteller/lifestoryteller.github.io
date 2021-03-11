@@ -30,7 +30,7 @@ tags:
 
 
 <p align="center">
-  <img height="300" src="https://github.com/lifestoryteller/lifestoryteller.github.io/blob/master/img/2021/20210311_niujiaoMountain.jpg">
+  ![niujiao_Mountain](/img/2021/20210311_niujiaoMountain.jpg "niujiaoMountain")
 </p>
 
 11/Mar/2021
