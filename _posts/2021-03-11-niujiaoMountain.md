@@ -25,12 +25,12 @@ tags:
 
 </p>
 <p align="center">
-    常景不赏赏异景
+    常海不赏赏异海
 </p>
 
 
 <p align="center">
-  ![P](/img/2021/20210311_niujiaoMountain.jpg "Philadelphia's Magic Gardens")
+  <img width="460" src="https://github.com/lifestoryteller/lifestoryteller.github.io/blob/master/img/2021/20210311_niujiaoMountain.jpg">
 </p>
 
 
