@@ -11,6 +11,6 @@ tags:
     - 生活日记
 ---
 
-<p align="center">
+<p align="left">
   <img height="300" src="https://github.com/lifestoryteller/lifestoryteller.github.io/blob/master/img/2021/20210311_niujiaoMountain.jpg">
 </p>
